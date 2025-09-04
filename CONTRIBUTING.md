@@ -1,1 +1,1 @@
-https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/fork
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
